@@ -1,0 +1,17 @@
+/* styles.css */
+
+p {
+    background-color: #FCA7A7;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+#forth {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
