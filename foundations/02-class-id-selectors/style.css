@@ -1,0 +1,12 @@
+/* styles.css */
+
+p {
+    background-color: pink;
+    font-size: 40px;
+    font-family: Verdana, , Tahoma, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
