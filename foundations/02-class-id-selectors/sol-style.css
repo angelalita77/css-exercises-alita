@@ -1,11 +1,11 @@
-/* styles.css */
+/* styles.css 
 
 p {
-    background-color: #FCA7A7;
+    background-color: rgba(28, 151, 94, 0.467);
     font-family: Verdana, Tahoma, sans-serif;
 }
 
-
+/*
 #second {
     color: blue;
     font-size: 36px;
@@ -13,5 +13,23 @@ p {
 #forth {
     background-color: lightgreen;
     font-weight: bold;
+    font-size: 24px;
+}
+
+
+/* From solution.css */
+/* Building this css file from how the solution.html is created */
+
+.odd {
+    background-color: rgb(252, 167, 167);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
     font-size: 24px;
 }
