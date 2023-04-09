@@ -20,9 +20,6 @@ body {
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
-  display: flex;
-  flex-direction: row;
-  padding: 10px;
 }
 
 .icon {
@@ -66,34 +63,4 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-}
-
-/* Left side of the dialog window */
-.leftside {
-  /* border: 3px solid; */
-  display: flex;
-  justify-content: center;
-  flex: 1 1 0;
-}
-
-/* Right side of the dialog window */
-.rightside {
-  /* border: 3px solid; */
-  display: flex;
-  flex-direction: column;
-  flex: 6 1 0;
-}
-
-.header {
-  font-weight: bold;
-  font-size: larger;
-}
-
-.topside {
-  display: flex;
-  justify-content: space-between;
-}
-
-.text {
-  padding: 10px 0px;
 }
